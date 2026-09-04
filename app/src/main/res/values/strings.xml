@@ -1,0 +1,9 @@
+<resources>
+        <string name="app_name">KidLock</string>
+        <string name="logo_desc">Logo Aplikasi KidLock</string>
+        <string name="lock_15m">Kunci dalam 15 Menit</string>
+        <string name="lock_30m">Kunci dalam 30 Menit</string>
+        <string name="hint_custom_time">Masukkan waktu(menit)</string>
+        <string name="btn_custom_time">Mulai Waktu Custom</string>
+        <string name="btn_change_pin">Ubah PIN Orang Tua</string>
+</resources>
